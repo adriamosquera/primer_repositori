@@ -43,3 +43,6 @@ code .
  
 - [Documentaci.github.com/
 - [ttps://code.visualstudio.com/
+## Flux de treball amb Git
+
+Git permet controlar els canvis dels fitxers i guardar diferents versions del projecte mitjançant commits.
