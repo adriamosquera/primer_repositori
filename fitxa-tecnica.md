@@ -43,3 +43,7 @@ code .
  
 - [Documentaci.github.com/
 - [ttps://code.visualstudio.com/
+## Comprovacions
+
+- [ ] Visual Studio Code s'obre correctament.
+- [ ] Es pot crear un fitxer nou.
