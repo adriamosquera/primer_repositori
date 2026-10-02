@@ -1,5 +1,5 @@
 # primer_repositori
-Projecte 2
+**Projecte 2**
 
 **Adria Mosquera** 
 
