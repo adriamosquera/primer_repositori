@@ -1,8 +1,5 @@
 # primer_repositori
-Hola bon dia
-# Projecte 2
-
-## Presentació
+Projecte 2
 
 **Adria Mosquera** 
 
